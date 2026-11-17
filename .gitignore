@@ -1,0 +1,21 @@
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Carpeta de salida de compilación de IntelliJ
+out/
+target/
+build/
+
+# Configuración local de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos basura del sistema operativo
+.DS_Store
+Thumbs.db
